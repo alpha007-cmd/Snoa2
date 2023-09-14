@@ -1,0 +1,159 @@
+.body{
+    /* background-color: black; */
+    /* background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%); */
+    background: linear-gradient(81deg, rgba(0,144,133,1) 0%, rgba(0,0,0,1) 50%, rgba(43,40,215,1) 75%);
+    
+
+}
+
+
+        .header{
+            color: rgb(255, 255, 255);
+        }
+
+        .container {
+            text-align: center;
+        }
+        /* ---------------IMAGE---------------- */
+        .img1{
+            height: 300px;
+            padding-top: 25px;
+            justify-content: center;
+        }
+
+        .top {
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+
+        /* ----------------------ABOUT------------------- */
+
+        .about{
+            margin: 1px;
+            color: rgb(255, 255, 255);
+        }
+         .service {
+            margin: -1px 0;
+            color: rgb(255, 255, 255);
+        }
+
+        .about p {
+            font-size: 30px;
+        }
+ /* ----------------------ABOUT END------------------- */
+
+/* --------------SERVICE------------- */
+
+        .service p {
+            font-size: 18px;
+        }
+
+/* ------------------------NAVBAR------------------ */
+        .navbar{
+            width: 50px;
+            height: 50px;
+        }
+        .favicon{
+            color: white;
+        }
+
+/* --------------------------SOCIAL MEDIA LINKS------------------------------- */
+        .social_link{
+            margin-right: 10px;
+        }
+        .whatsapp{
+            
+            color: rgb(255, 255, 255);
+            text-decoration: none;
+            font-size: 40px;
+            padding-right: 10px;
+            cursor: pointer;
+        }
+        
+        .instagram{
+           
+            color: white;
+            text-decoration: none;
+            font-size: 40px;
+            padding-right: 10px;
+            cursor: pointer;
+        }
+        
+        .website{
+            
+            color: rgb(255, 255, 255);
+            text-decoration: none;
+            font-size: 40px;
+            padding-right: 10px;
+            cursor: pointer;
+        }
+        .mail{
+            color: rgb(255, 255, 255);
+            text-decoration: none;
+            font-size: 40px;
+            padding-right: 10px;
+            cursor: pointer;
+        }
+        
+        .coin{
+   
+            color: rgb(255, 255, 255);
+            text-decoration: none;
+            font-size: 40px;
+            padding-right: 10px;
+            cursor: pointer;
+        }
+        
+        .contact{
+   
+            color: rgb(255, 255, 255);
+            text-decoration: none;
+            font-size: 40px;
+            padding-right: 10px;
+            cursor: pointer;
+        }
+        
+        .circle1{
+            color: rgb(255, 255, 255);
+            text-decoration: none;
+            font-size: 40px;
+            padding-right: 10px;
+            cursor: pointer;
+        }
+ /* -------------------------HOVER EFFECT--------------------------------- */
+        .whatsapp:hover{
+            color: red;
+        }
+        .instagram:hover{
+            color: red;
+        }
+        .website:hover{
+            color: red;
+        }
+        .mail:hover{
+            color: red;
+        }
+        .coin:hover{
+            color: red;
+
+        }
+        .contact:hover{
+            color: red;
+        }
+        .circle1:hover{
+            color: red;
+        }
+        
+
+        /* ------------------FOOTER----------------- */
+
+        .footer1{
+            color: white;
+        }
+        .footer3{
+            text-decoration: none;
+            color: red;
+            
+
+        }
+    
